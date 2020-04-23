@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station F", "nearest_node": 10962, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.275096063626194, 37.779353292309622 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station D", "nearest_node": 21276, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.239703008843904, 37.770925798350547 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station E", "nearest_node": 73520, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.252526396943907, 37.776174705498491 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station C", "nearest_node": 1012, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.240463800491199, 37.753170222807192 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station B", "nearest_node": 13444, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.225668376045107, 37.764100101487323 ] } }
+]
+}
