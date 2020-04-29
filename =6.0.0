@@ -1,0 +1,17 @@
+Collecting twilio
+  Downloading https://files.pythonhosted.org/packages/af/f7/5ab46bfda57207e0370c0f8036a086b99b276cdd5fdedfb42af7e577abf6/twilio-6.38.1.tar.gz (418kB)
+Requirement already satisfied: six in /Users/rj/anaconda3/lib/python3.6/site-packages (from twilio) (1.12.0)
+Requirement already satisfied: pytz in /Users/rj/anaconda3/lib/python3.6/site-packages (from twilio) (2018.9)
+Requirement already satisfied: PyJWT>=1.4.2 in /Users/rj/anaconda3/lib/python3.6/site-packages (from twilio) (1.7.1)
+Requirement already satisfied: requests>=2.0.0 in /Users/rj/anaconda3/lib/python3.6/site-packages (from twilio) (2.21.0)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /Users/rj/anaconda3/lib/python3.6/site-packages (from requests>=2.0.0->twilio) (3.0.4)
+Requirement already satisfied: urllib3<1.25,>=1.21.1 in /Users/rj/anaconda3/lib/python3.6/site-packages (from requests>=2.0.0->twilio) (1.24.1)
+Requirement already satisfied: idna<2.9,>=2.5 in /Users/rj/anaconda3/lib/python3.6/site-packages (from requests>=2.0.0->twilio) (2.8)
+Requirement already satisfied: certifi>=2017.4.17 in /Users/rj/anaconda3/lib/python3.6/site-packages (from requests>=2.0.0->twilio) (2018.11.29)
+Building wheels for collected packages: twilio
+  Building wheel for twilio (setup.py): started
+  Building wheel for twilio (setup.py): finished with status 'done'
+  Stored in directory: /Users/rj/Library/Caches/pip/wheels/da/82/71/56e0930f939f0b6edc577954d9bc49e80e0aef953e0161107e
+Successfully built twilio
+Installing collected packages: twilio
+Successfully installed twilio-6.38.1
