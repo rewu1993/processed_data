@@ -1,9 +1,0 @@
-{
-"type": "FeatureCollection",
-"features": [
-{ "type": "Feature", "properties": { "node_id": 13445, "longitude": -122.22530498454277, "latitude": 37.764003063659075, "elevation": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.225304984542774, 37.764003063659075 ] } },
-{ "type": "Feature", "properties": { "node_id": 22848, "longitude": -122.23632818667332, "latitude": 37.771607129958419, "elevation": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.236328186673319, 37.771607129958419 ] } },
-{ "type": "Feature", "properties": { "node_id": 68570, "longitude": -122.27471543622765, "latitude": 37.790042834783826, "elevation": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.274715436227652, 37.790042834783826 ] } },
-{ "type": "Feature", "properties": { "node_id": 68755, "longitude": -122.23326630181066, "latitude": 37.769554998758039, "elevation": 12.38 }, "geometry": { "type": "Point", "coordinates": [ -122.233266301810659, 37.769554998758039 ] } }
-]
-}
