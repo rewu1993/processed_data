@@ -1,10 +1,10 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station F", "nearest_node": 79921, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.275096063626194, 37.779353292309622 ] } },
-{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station D", "nearest_node": 55771, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.239703008843904, 37.770925798350547 ] } },
-{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station E", "nearest_node": 69863, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.252526396943907, 37.776174705498491 ] } },
-{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station C", "nearest_node": 54309, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.240463800491199, 37.753170222807192 ] } },
-{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station B", "nearest_node": 55269, "Q": 2000, "H": 100 }, "geometry": { "type": "Point", "coordinates": [ -122.225668376045107, 37.764100101487323 ] } }
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station F", "nearest_node": 79921, "nearest_pipes": 79707, "curve_id": 0, "node1": 79921, "node2": 79922 }, "geometry": { "type": "Point", "coordinates": [ -122.275096063626194, 37.779353292309622 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station D", "nearest_node": 55771, "nearest_pipes": 65942, "curve_id": 0, "node1": 55771, "node2": 60347 }, "geometry": { "type": "Point", "coordinates": [ -122.239703008843904, 37.770925798350547 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station E", "nearest_node": 69863, "nearest_pipes": 75506, "curve_id": 0, "node1": 63090, "node2": 69863 }, "geometry": { "type": "Point", "coordinates": [ -122.252526396943907, 37.776174705498491 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station C", "nearest_node": 54309, "nearest_pipes": 57105, "curve_id": 0, "node1": 54309, "node2": 54344 }, "geometry": { "type": "Point", "coordinates": [ -122.240463800491199, 37.753170222807192 ] } },
+{ "type": "Feature", "properties": { "FAC_ABBRV_": "WW Pump Station B", "nearest_node": 55269, "nearest_pipes": 55960, "curve_id": 0, "node1": 55268, "node2": 55269 }, "geometry": { "type": "Point", "coordinates": [ -122.225668376045107, 37.764100101487323 ] } }
 ]
 }

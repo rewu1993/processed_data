@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
 "features": [
-{ "type": "Feature", "properties": { "node_id": 53033, "longitude": -122.23290926354242, "latitude": 37.770121282883743, "elevation": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.232909263542425, 37.770121282883743 ] } }
+{ "type": "Feature", "properties": { "node_id": 53033, "longitude": -122.23290926354242, "latitude": 37.770121282883743, "elevation": 0.0, "demand": 0.0, "pid": 54739 }, "geometry": { "type": "Point", "coordinates": [ -122.232909263542425, 37.770121282883743 ] } }
 ]
 }
