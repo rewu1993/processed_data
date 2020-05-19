@@ -23019,13 +23019,24 @@
 181595   53.26   0.0      ;
 [RESERVOIRS]
 ;ID   Head   Pattern  
-node_id   150      ;
-longitude   150      ;
-latitude   150      ;
-elevation   150      ;
-demand   150      ;
-pid   150      ;
-geometry   150      ;
+28986   150      ;
+54197   150      ;
+60235   150      ;
+64268   150      ;
+69939   150      ;
+75867   150      ;
+77198   150      ;
+82520   150      ;
+83261   150      ;
+89030   150      ;
+106692   150      ;
+114726   150      ;
+144955   150      ;
+157372   150      ;
+157814   150      ;
+165095   150      ;
+165388   150      ;
+167181   150      ;
 
 [PIPES]
 ;ID   Node1   Node2   Length   Diameter   Roughness   Minorloss   Status   
