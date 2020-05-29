@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 865, "FAC_GN": 162, "FAC_NM": "Potrero Reservoir", "FAC_ADDR_T": "NW\/o 3108 Point Orient Rd, Point San Pablo area", "STRCT_NU": 799.0, "PRSZ_CD": "G0A", "PRSZ_DESC_": "Central", "PRSZ_HILL_": "W", "PRSZ_SRC_C": null, "PRSZ_SRC_D": null, "PLNG_PRSZ_": null, "PLNG_PRSZ1": null, "FUND_CD": "WSG", "FAC_SITE_G": 0.0, "FAC_ALT_CD": null, "CITY_CD": "RCH", "CNTY_CD": "CC", "ZIP_NU": null, "FAC_DIRCTN": null, "RTU_NM": "SA55", "OPS_LOOP_N": 96.0, "FAC_TYPE_N": "DISTRIBUTION RESERVOIR", "FAC_TYPE_A": "DRES", "MAP_EAST_N": 1443, "MAP_NORTH_": 538, "FAC_STAT_C": "TRS", "FAC_FAC_ST": "2005-02-16", "FAC_FAC__1": null, "FAC_PRINT_": "Potrero Reservoir", "FAC_FULL_P": "Potrero Reservoir (DRES)", "FAC_LOC_TX": null, "FAC_TEMP_F": "N", "FAC_STBY_F": "N", "FAC_STAFFE": "N", "WTR_TYPE_C": "P", "FAC_ABBRV_": "Potrero", "MAINT_AREA": 2.0, "FAC_NAD83_": 6006281.0, "FAC_NAD831": 2179205.0, "STRCT_NM": "Potrero Reservoir", "nearest_node": 174995 }, "geometry": { "type": "Point", "coordinates": [ -122.426643971972297, 37.964030740519917 ] } }
+]
+}
