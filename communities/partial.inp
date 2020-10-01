@@ -352,10 +352,9 @@
 181395   12.1   0.0      ;
 181396   7.27   0.0      ;
 181397   9.81   0.0      ;
-181399   11.59   0.0      ;
 [RESERVOIRS]
 ;ID   Head   Pattern  
-77721   150      ;
+181399   150      ;
 
 [PIPES]
 ;ID   Node1   Node2   Length   Diameter   Roughness   Minorloss   Status   
