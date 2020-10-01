@@ -353,6 +353,7 @@
 { "type": "Feature", "properties": { "node_id": 181394, "longitude": -122.29874725755327, "latitude": 37.781593985870792, "elevation": 11.47, "demand": 0.0, "MM_2018_gp": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.298747257553273, 37.781593985870792 ] } },
 { "type": "Feature", "properties": { "node_id": 181395, "longitude": -122.30997795724043, "latitude": 37.785721589617964, "elevation": 12.1, "demand": 0.0, "MM_2018_gp": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.309977957240434, 37.785721589617964 ] } },
 { "type": "Feature", "properties": { "node_id": 181396, "longitude": -122.30274808979452, "latitude": 37.789610282212593, "elevation": 7.27, "demand": 0.0, "MM_2018_gp": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.30274808979452, 37.789610282212593 ] } },
+{ "type": "Feature", "properties": { "node_id": 181397, "longitude": -122.29578099724691, "latitude": 37.787137248484719, "elevation": 9.81, "demand": 23.405469749360289, "MM_2018_gp": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.295780997246908, 37.787137248484719 ] } },
 { "type": "Feature", "properties": { "node_id": 181399, "longitude": -122.30485534891552, "latitude": 37.781917051637826, "elevation": 11.59, "demand": 0.0, "MM_2018_gp": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -122.304855348915524, 37.781917051637826 ] } }
 ]
 }
